@@ -1,6 +1,6 @@
-customhost = "database-1.cjo60u2ccet7.us-east-1.rds.amazonaws.com"
+customhost = "myappdb.cjo60u2ccet7.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "admin123"
 customdb = "employee"
-custombucket = "profilecreation01"
+custombucket = "myappbucket0101"
 customregion = "us-east-1"
